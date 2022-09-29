@@ -1,5 +1,5 @@
 # 0x03. Caching
-<img src="https://www.ogmaconceptions.com/wp-content/uploads/2019/05/python-development-vector.png" width = 500px length = 300px >
+<img src="https://www.ogmaconceptions.com/wp-content/uploads/2019/05/python-development-vector.png" width = 500px length = 500px >
 
 ### General 📚
 - 📚 What a caching system is
