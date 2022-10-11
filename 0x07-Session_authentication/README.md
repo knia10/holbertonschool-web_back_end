@@ -1,6 +1,6 @@
 # 0x07. Session authentication📚
 
-<img src="https://files.realpython.com/media/Understanding-Asynchronous-Programming-in-Python_Watermarked.4b590c7c03ea.jpg" width = 400px length = 300px >
+<img src="https://unitalk.cloud/wp-content/uploads/2022/09/01-authentication.png" width = 400px length = 300px >
 
 
 ## Background Context
