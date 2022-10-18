@@ -1,5 +1,5 @@
 # 0x08. User authentication service
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflask-sqlalchemy.palletsprojects.com%2F&psig=AOvVaw11GPyT1drZLOYm3NrEWBMl&ust=1666215635882000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOiRqprf6voCFQAAAAAdAAAAABAM" width = 600px length = 300px >
+<img src="https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/_images/flask-sqlalchemy-title.png" width = 600px length = 300px >
 In the industry, you should not implement your own authentication system and use a module or framework that doing it for you (like in Python-Flask: [Flask-User](https://flask-user.readthedocs.io/en/latest/)). Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
 
 ## Learning Objectives📖
