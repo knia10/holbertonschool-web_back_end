@@ -1,5 +1,6 @@
 ﻿# 0x0F. ES6 Promises
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/playlists/square_covers/000/432/653/square_480/EGH_LearnES6_Final.png" width = 600px length = 300px >
+
 ## Learning Objectives
 - 🔰 Promises (how, why, and what)
 - 🔰 How to use the then, resolve, catch methods
